@@ -1,6 +1,6 @@
 # BNN-methods
 
-Hello. This is going to be the repository of the code and guides related to the work done on my master's thesis in Advanced Robotics technology from SDU. It will be empty until around 5-6 January and slowly be worked on.
+Hello. This is going to be the repository of the code and guides related to the work done on my master's thesis in Advanced Robotics technology from SDU. It will be empty until around 5-6 (now moved to the 13th as I am no longer home) in January and slowly be worked on.
 
 TODO Next:
 
